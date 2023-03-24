@@ -7,7 +7,7 @@ body{
 
 .container{ 
    
-    background-color: white;
+    background-color: rgb(232, 70, 70);
     position: absolute;
     top: 50%;
     left: 50%;
@@ -41,7 +41,7 @@ body{
 
 a:hover{
     color:white;
-    background-color: #0d64cf;
+    background-color: #0c0b0c;
     padding: 0.5%;
     padding-left: 2%;
     padding-right: 2%;
@@ -50,7 +50,7 @@ a:hover{
 
 .social-link {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 130%;
+    font-size: 145%;
     text-decoration: none;
 }
 .social-icon{     
@@ -62,7 +62,7 @@ a:hover{
 
 @font-face {
     font-family: nos;
-    src: url(fonts/Gasalt-Regular.ttf);
+    src: url(fonts/Gasalt-Thin.ttf);
 }
 .name{
     font-family: nos;
