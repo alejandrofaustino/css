@@ -60,3 +60,13 @@ a:hover{
    
 }
 
+@font-face {
+    font-family: nos;
+    src: url(fonts/Gasalt-Regular.ttf);
+}
+.name{
+    font-family: nos;
+    margin-top: 3px;
+    
+}
+
